@@ -12,7 +12,7 @@ public class Main {
         Person son = new Person();
         Person daughter = new Person();
 
-        // Input user's data starting from father
+        // Input users' data starting from father
         System.out.println("Now, give me the father's first name:");
         father.setName();
         System.out.println("Good. Now tell me his last name:");
