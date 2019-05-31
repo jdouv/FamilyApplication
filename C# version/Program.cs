@@ -16,7 +16,7 @@ namespace FamilyApplication
         var son = new Person();
         var daughter = new Person();
 
-        // Input user's data starting from father
+        // Input users' data starting from father
         Console.WriteLine("Now, give me the father's first name:");
         father.SetName();
         Console.WriteLine("Good. Now tell me his last name:");
